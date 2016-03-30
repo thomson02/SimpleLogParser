@@ -2,7 +2,7 @@
   "name": "SimpleLogParser",
   "version": "1.0.0",
   "description": "Utility to parse logs.",
-  "main": "swire-log-parser.js",
+  "main": "simple-log-parser.js",
   "scripts": {
     "test": "node simple-log-parser.js > log.csv"
   },
